@@ -1,0 +1,7 @@
+The GR32_Lines library is written by Angus Johnson.
+Copyright (C) 2008-2010 Angus Johnson 
+
+The version of the library in this SVN is 3.93, last updated date is 17 Nov 2010. 
+
+You can found up-to-date code of this library at Angus Johnson's website:
+http://www.angusj.com/delphi/gr32_lines.php
