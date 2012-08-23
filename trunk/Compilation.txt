@@ -1,0 +1,11 @@
+GraphicsMagic Professional 1.4.6 is written with Delphi 7.
+
+To compile this project, it is recommended to install all of the components and libraries in the externals directory. Then, install the component package of GraphicsMagic. You will find it at "trunk/Packages/".
+
+If you don't install these components/libraries, when you open the project with Delphi, Delphi will inform you that some components could not be recognized. You need simply ignore these error reports and then try to compile the program. It should also be compiled.
+
+But we still recommend you to install all the component for compiling the project.
+
+If you need any helps for installing these components and libraries, please send us email: < gmbros@hotmail.com >.
+
+Thank you very much.
