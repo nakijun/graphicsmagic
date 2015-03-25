@@ -1,0 +1,1 @@
+GraphicsMagic is an image processing open source project written in Delphi 7 and Graphics32 library. It is released under triple license, MPL 1.1/LGPL 2.1/GPL 2.0 .
